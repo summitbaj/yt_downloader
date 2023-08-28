@@ -1,0 +1,6 @@
+/dist
+/coverage
+/config
+/docker
+
+tsconfig.json
